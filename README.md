@@ -1,2 +1,2 @@
-# DS-UA-111-Spring-2020-Public
-Data Science for Everyone (DS-UA-111)
+### Data Science for Everyone (DS-UA-111)
+This class offers students a chance to learn about the growing field of data science. Students will use statistical and computational approaches to explore patterns, make estimations, figure out predictions and better understand inferences. Along the way, students will gain experience collecting, processing, analyzing and interpreting datasets to determine rigorous and reproducible findings. Throughout the semester, students will be empowered to solve problems with data.  
